@@ -1,0 +1,17 @@
+/code/SPlsWork/*
+/docs/*
+*.lpz
+*.hash
+*.sig
+*.sm2
+*.smft
+*.asv
+*.zip
+*.spz
+*.sgd
+*.vtz
+*.ced
+*.dsx
+*.dsp
+*.sgd*
+~*.*
